@@ -1,0 +1,16 @@
+{
+  "name": "mitogh/html",
+  "description": "Set of HTML utilities for WordPress",
+  "authors": [
+    {
+      "name": "Crisoforo Gaspar Hernandez",
+      "email": "mitogh@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "HTML\\": "src/"
+    }
+  },
+  "require": {}
+}
