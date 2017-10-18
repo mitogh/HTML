@@ -1,4 +1,4 @@
-<?php namespace HTML\Attributes;
+<?php namespace HTML;
 
 /**
  * Class to generate attributes based on an array of values, helpful to keep the code en an more
